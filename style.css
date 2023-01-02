@@ -1,0 +1,33 @@
+body{
+    background-color:aquamarine;
+}
+
+#score{
+    font-size: 25px;
+    float: left;
+    margin-left: 20px;
+    background-color: rgb(106, 106, 252);
+    border-radius: 20px;
+    padding: 5px;
+}
+
+#timer{
+    font-size: 25px;
+    float: right;
+    margin-right: 110px;
+    background-color: rgb(106, 106, 252);
+    border-radius: 20px;
+    padding: 5px;
+}
+
+#to_be_drawn{
+    font-size: 30px;
+    color: red;
+    background-color: yellow;
+    padding: 10px;
+}
+
+#user_sketch, #confidence{
+    font-size: 25px;
+}
+
